@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dm594
 - 👀 I’m interested in learning a variety of computer languages and VR developing
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to ♥eat♥
 - 📫 Reach me on email dm594@njit.edu
 
 <!---
