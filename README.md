@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dm594
-- 👀 I’m interested in learning a variety of computer languages and VR developing
-- 🌱 I’m currently learning Information Technology
+- 👋 Hi, I’m Demi!
+- 👀 Navigating the tech world and building apps in the process.
+- 🌱 Graduating in December 2023
 - 📫 Reach me on email dm594@njit.edu
 
 <!---
